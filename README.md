@@ -1,3 +1,3 @@
 # NOI2020
 
-\Huge{CNM}
+$\Huge{CNM}$
